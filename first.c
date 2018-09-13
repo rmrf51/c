@@ -69,6 +69,7 @@ int gettop(struct stack *stk) {
 
 int main(int argc, char const *argv[])
 {
+	//stack
 	struct stack *stk;
   int i,n;
   float elem;
